@@ -46,7 +46,7 @@ Backstage is an aggregator. But it connects popular technologies
 
 -   Less flexible for customization
 
-#### Partners who can help setup:
+### Partners who can help setup:
 
 -   [Frontside](https://frontside.com/backstage/) offers Developer Experience consulting services.
 -   [Thoughtworks](https://www.thoughtworks.com/) offers Digital Transformation consulting services.
