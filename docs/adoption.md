@@ -45,3 +45,9 @@ Backstage is an aggregator. But it connects popular technologies
 ##### Disadvantages:
 
 -   Less flexible for customization
+
+#### Partners who can help setup:
+
+-   [Frontside](https://frontside.com/backstage/) offers Developer Experience consulting services.
+-   [Thoughtworks](https://www.thoughtworks.com/) offers Digital Transformation consulting services.
+-   [Vmware](https://tanzu.vmware.com/tanzu) offers Backstage as part of its platform solution.
